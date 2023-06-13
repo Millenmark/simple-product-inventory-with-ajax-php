@@ -97,6 +97,7 @@
               <div class="mb-3">
                 <label for="expdate">Expiration Date</label>
                 <input type="date" name="expdate" id="expdate" class="form-control">
+                <h6>Note: Set the exp date again to be able to click the update</h6>
               </div>
               
               <div class="mb-3">
